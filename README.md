@@ -1,5 +1,5 @@
-# EDF_freeRTOS
- Implementation of EDF Scheduler in FREERTOS
+## EDF_freeRTOS
+# Implementation of EDF Scheduler in FREERTOS
 
 This Repository contains all the work done in this project.
 
